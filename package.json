@@ -1,0 +1,14 @@
+{
+    "name": "access-control-chaincode",
+    "version": "0.0.1",
+    "description": "Smart contract for access control in Hyperledger Fabric",
+    "main": "accessControlChaincode.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "mwichabe",
+    "license": "ISC",
+    "dependencies": {
+        "fabric-contract-api": "^2.0.0"
+    }
+}
